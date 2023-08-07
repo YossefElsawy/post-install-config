@@ -75,6 +75,9 @@ Admin Panel > Agents > Add New
 First Name: John -- Last Name: Cena -- Email Address: john.cena@osTicket.com -- Username: john.cena -- 
 Click "Set Password" and then uncheck "Send the agent a password reset email". Create a password for this user. Uncheck "Require password change at next login". Make sure to click "Set"
 Note: Another Agent was created and shown in the lab.
+Extra Note: When giving permissions for the agents make sure it applies to what your organization needs. For this project, I gave John access to System Administrators and Extended Access to Support. Whatever the agent receives as their access is what they can see in the Agent Panel. Video below goes through that.
+
+[Providing access to agents](https://www.loom.com/share/f4f538649e004dfca13965a640c494e3?sid=d4a8a437-b00e-4218-a15c-0570775c2e55)
 </p>
 <br />
 
