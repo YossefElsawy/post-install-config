@@ -15,10 +15,11 @@ This tutorial outlines the post-install configuration of the open-source help de
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- [osTicket Documentation](https://docs.osticket.com/en/latest/index.html)
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10</b> (22H2)
 
 <h2>Post-Install Configuration Objectives</h2>
 
